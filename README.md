@@ -1,0 +1,1 @@
+In this project the data base like mySql is connected and with the use of data base the table will creates and when we register the data that can store automatically and checks validation while registering by using jsp and also i have used html,css,javaScript,Angular,
